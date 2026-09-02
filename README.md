@@ -10,3 +10,4 @@ este proyecto es una calculadora web simple
  - Desarrollador 2 Majorek
 
  [Revisiónes](./docs/revisiones.md)
+ [Casos de Uso](./docs/casos-de-uso.md)
