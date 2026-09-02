@@ -9,6 +9,6 @@ este proyecto es una calculadora web simple
  - Desarrollador 1 Cesar
  - Desarrollador 2 Majorek
 
- [Revisiónes](./docs/revisiones.md)
- [Casos de Uso](./docs/casos-de-uso.md)
- [Wireframes](./docs/wireframes.md)
+ - [Revisiónes](./docs/revisiones.md)
+ - [Casos de Uso](./docs/casos-de-uso.md)
+ - [Wireframes](./docs/wireframes.md)
