@@ -1,3 +1,3 @@
 # Wireframes del Proyecto
 
-[![Boceto Wireframe](./wireframe.jpg)]
+![Boceto Wireframe](./wireframe.jpg)
