@@ -11,3 +11,4 @@ este proyecto es una calculadora web simple
 
  [Revisiónes](./docs/revisiones.md)
  [Casos de Uso](./docs/casos-de-uso.md)
+ [Wireframes](./docs/wireframes.md)
