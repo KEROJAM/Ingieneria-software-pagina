@@ -8,3 +8,5 @@ este proyecto es una calculadora web simple
  - Marcelo Diseñador
  - Desarrollador 1 Cesar
  - Desarrollador 2 Majorek
+
+ [Revisiónes](./docs/revisiones.md)
